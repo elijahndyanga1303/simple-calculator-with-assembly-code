@@ -149,7 +149,4 @@ lw $t7, result
 
     j main
 
-    ## HANZA HAMANENGA
-    #G1Ca
-    ##19-19041101 
-    
+  
